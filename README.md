@@ -6,4 +6,4 @@ To build a simple recipe website
 
 Website : 
 
-https://github.com/ofvcode/odin-recipes
+https://ofvcode.github.io/odin-recipes/index.html
