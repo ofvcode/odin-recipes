@@ -1,8 +1,14 @@
-h1, div, p {
+ h1, div, p {
     text-align: center;
 
 
 }
+
+
+
+
+
+
 
 a {
   background-color: darkblue;
@@ -14,6 +20,9 @@ a {
 * {
   font-family:Arial, Helvetica, sans-serif;
   color:white;
+  outline: 2px solid black;
+  
+  
 
 }
 
