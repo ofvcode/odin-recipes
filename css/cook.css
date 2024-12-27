@@ -22,3 +22,43 @@ a {
   
   }
 
+  .center {
+    outline:solid 10px;
+    padding-top:100px;
+    padding-bottom:100px;
+    padding-left:50px;
+    padding-right:50px;
+    box-sizing:border-box;
+    border-radius:10px;
+    width:800px;
+    margin:auto;
+    margin-top:90px;
+    margin-bottom:200px;
+    background-color: rgb(8, 12, 12);
+    }
+
+
+    .backgroundtext {
+      background-color: black;
+      outline: solid 3px;
+      padding: 3px;
+      border-radius:3px;
+      text-decoration: none;
+      
+      
+      
+      }
+      
+
+  img {
+  margin: auto;
+  display:block;
+
+
+  }
+
+  h1 {
+   text-align: center;
+
+    
+  }
