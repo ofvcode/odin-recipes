@@ -6,6 +6,19 @@
 
 
 
+.bt {
+  background-color: rgba(2, 17, 20, 0.972);
+  outline: solid 3px;
+  padding: 10px;
+  border-radius:100px;
+  width:fit-content;
+  margin-bottom: 35px;
+  text-decoration: none;
+  
+  
+  
+  }
+
 
 
 * {
@@ -29,6 +42,7 @@ text-decoration: none;
 
 
 
+
 html {
  background-color: black;
 
@@ -48,4 +62,5 @@ margin:auto;
 margin-top:200px;
 background-color: rgb(8, 12, 12);
 }
+
 
