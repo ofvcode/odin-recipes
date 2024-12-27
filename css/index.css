@@ -5,11 +5,6 @@
 }
 
 
-
-
-
-
-
 a {
   background-color: darkblue;
 
@@ -25,7 +20,35 @@ a {
 
 }
 
+.backgroundtext {
+background-color: black;
+outline: solid 3px;
+padding: 3px;
+border-radius:3px;
+text-decoration: none;
+
+
+
+}
+
+
+
 html {
  background-color: black;
 
+}
+
+.center {
+outline:solid 10px;
+padding-top:100px;
+padding-bottom:100px;
+padding-left:50px;
+padding-right:50px;
+box-sizing:border-box;
+border-radius:10px;
+width:500px;
+height:500px;
+margin:auto;
+margin-top:200px;
+background-color: rgb(8, 12, 12);
 }
